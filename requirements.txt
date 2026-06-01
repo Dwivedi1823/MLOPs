@@ -5,6 +5,7 @@ ipykernel
 python-dotenv
 setuptools
 pymongo
+pymongo[srv]==3.12
 certifi
 
 # -e .
