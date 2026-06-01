@@ -1,0 +1,2 @@
+[ 2026-06-01 19:36:41,915 ] - 20 networksecurity - INFO - Entered the try block..
+[ 2026-06-01 19:36:41,915 ] - 24 networksecurity - ERROR - Exception occurred: division by zero
